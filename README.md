@@ -3,3 +3,7 @@ O DDD (Domain Driven Design) é uma modelagem de software cujo
 objetivo é facilitar a implementação de regras e processos complexos,
 onde visa a divisão de responsabilidades por camadas e é independente
 da tecnologia utilizada.
+
+# ASP.NET Core
+# SQL Sever
+# Entity Framework 6 
